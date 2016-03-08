@@ -1,0 +1,8 @@
+C:\Users\chris.griffin\Documents\Visual Studio 2010\Projects\ROMStuckBitSimulator\ROMStuckBitSimulator\obj\x86\Debug\ROMStuckBitSimulator.Form1.resources
+C:\Users\chris.griffin\Documents\Visual Studio 2010\Projects\ROMStuckBitSimulator\ROMStuckBitSimulator\obj\x86\Debug\ROMStuckBitSimulator.Properties.Resources.resources
+C:\Users\chris.griffin\Documents\Visual Studio 2010\Projects\ROMStuckBitSimulator\ROMStuckBitSimulator\obj\x86\Debug\ROMStuckBitSimulator.csproj.GenerateResource.Cache
+C:\Users\chris.griffin\Documents\Visual Studio 2010\Projects\ROMStuckBitSimulator\ROMStuckBitSimulator\bin\Debug\ROMStuckBitSimulator.exe
+C:\Users\chris.griffin\Documents\Visual Studio 2010\Projects\ROMStuckBitSimulator\ROMStuckBitSimulator\bin\Debug\ROMStuckBitSimulator.pdb
+C:\Users\chris.griffin\Documents\Visual Studio 2010\Projects\ROMStuckBitSimulator\ROMStuckBitSimulator\obj\x86\Debug\ROMStuckBitSimulator.exe
+C:\Users\chris.griffin\Documents\Visual Studio 2010\Projects\ROMStuckBitSimulator\ROMStuckBitSimulator\obj\x86\Debug\ROMStuckBitSimulator.pdb
+C:\Users\chris.griffin\Documents\Visual Studio 2010\Projects\ROMStuckBitSimulator\ROMStuckBitSimulator\obj\x86\Debug\ROMStuckBitSimulator.csprojResolveAssemblyReference.cache
